@@ -1,6 +1,6 @@
 # Developer Assessment
 
-Thank you for your interest in a developer role at **genieX**. Please refer to the assessment file for your role:
+Thank you for your interest in a developer role at **genieX**. Please refer to the assessment file based on the role you've applied for:
 
 - **Backend:** [backend.md](backend.md)
 - **Frontend:** [frontend.md](frontend.md)
